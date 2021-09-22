@@ -19,6 +19,10 @@ You Can Play Radio In Groups &amp; Channel..
 </details>
 
 
+### Deploy To Heroku
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/radioplayer-bot)
+
+
 ### Credits
 
 - [Repo Owner](https://github.com/LushaiMusic/VCMusicPlayer)
